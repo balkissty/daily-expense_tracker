@@ -1,9 +1,2 @@
-1.Unzip the folder
-2.Copy the expense_folder in your wamp www folder or xamp htdoc folder
-3.Open the expense_folder
-5.Open the db_config.php file and change the connection string
-6.Install the data
-7.Type localhost/expense_manager
-8.You are done
-
-You can contact me at     kingwashlds@gmail.com
+This is a web-based tracker system which will take income from a house wife and devides it in daily espense allowed. If the allowed expense for a particular day is exeeded, it will be cut from the income and give new daily expense allowed amount. However, if the expense for that day is less, it will be added in savings
+Daily expense tracking system will generate report at the end of the month to show Income-Expense Curve. It will also allow for the addition of the savings amount which has been saved for some particular Festivals or day like Birthday or Anniversary
